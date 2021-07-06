@@ -9,3 +9,13 @@ purple
 those are the colors of the rainbow!
 
 adding black reluctantly but happily
+
+make a reversal
+
+purple 
+blue
+indigo
+green
+yellow
+orange
+red!
